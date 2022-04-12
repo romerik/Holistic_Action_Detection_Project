@@ -1,2 +1,10 @@
-WLASL/
-Data/
+action.h5
+Data
+.gitignore
+Holistic_1.ipynb
+Holistic_2.ipynb
+incorrect
+.ipynb_checkpoints
+Logs
+tutorial
+WLASL
